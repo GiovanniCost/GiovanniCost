@@ -12,8 +12,6 @@ Sou um Desenvolvedor Full Stack focado em criar aplicações modernas, eficiente
 
 ### 🛠️ Minhas Competências e Tecnologias
 
-### 🛠️ Minhas Competências e Tecnologias
-
 #### Frontend
 <p align="left">
   <img src="https://jsdelivr.net" width="40" height="40" alt="React" />&nbsp;
