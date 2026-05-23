@@ -1,11 +1,10 @@
-# Olá, eu sou o Giovanni Costa da Silva! 👋
+# Olá, eu sou o Giovanni Costa da Silva! 
 
 Sou um Desenvolvedor Full Stack focado em criar aplicações modernas, eficientes e escaláveis. Adoro transformar ideias em código e estou sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
 
 ---
 
 ### 💻 Sobre Mim
-* 🎓 Focado em desenvolvimento através do **DevClub** e **Dio.me**.
 * 🚀 Atualmente focado no ecossistema **JavaScript (React, Node.js e TypeScript)**.
 * 🛠️ Gosto de criar projetos práticos e resolver problemas reais através da tecnologia.
 
