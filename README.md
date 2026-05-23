@@ -37,8 +37,6 @@ Sou um Desenvolvedor Full Stack focado em criar aplicações modernas, eficiente
 </p>
 
 
-
-
 ---
 
 ### 📊 Estatísticas do GitHub
@@ -47,6 +45,7 @@ Sou um Desenvolvedor Full Stack focado em criar aplicações modernas, eficiente
   <img height="180em" src="https://vercel.app"/>
   <img height="180em" src="https://vercel.app"/>
 </p>
+
 
 ---
 
