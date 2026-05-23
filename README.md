@@ -13,38 +13,31 @@ Sou um Desenvolvedor Full Stack focado em criar aplicações modernas, eficiente
 
 ### 🛠️ Minhas Competências e Tecnologias
 
+### 🛠️ Minhas Competências e Tecnologias
+
 #### Frontend
 <p align="left">
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="Styled Components" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="React" />&nbsp;
+  <img src="https://jsdelivr.net" width="40" height="40" alt="JavaScript" />&nbsp;
+  <img src="https://jsdelivr.net" width="40" height="40" alt="HTML5" />&nbsp;
+  <img src="https://jsdelivr.net" width="40" height="40" alt="CSS3" />
 </p>
 
 #### Backend & Banco de Dados
 <p align="left">
-  <img src="https://shields.io" alt="Node.js" />
-  <img src="https://shields.io" alt="Express" />
-  <img src="https://shields.io" alt="MongoDB" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Node.js" />&nbsp;
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Express" />&nbsp;
+  <img src="https://jsdelivr.net" width="40" height="40" alt="MongoDB" />
 </p>
 
-#### Ferramentas & Outros
+#### Ferramentas
 <p align="left">
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
-  <img src="https://shields.io" alt="Axios" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Git" />&nbsp;
+  <img src="https://jsdelivr.net" width="40" height="40" alt="GitHub" />
 </p>
 
----
 
-### 📌 Projeto em Destaque
 
-#### 👥 [Sistema de Cadastro de Colaboradores](LINK_DO_SEU_REPOSITORIO)
-Aplicação Full Stack desenvolvida para gerenciar o registro de funcionários de uma empresa.
-* **Frontend:** React.js, Styled Components, Axios.
-* **Backend:** Node.js, Express, Mongoose, MongoDB.
-* Conectado a uma API RESTful própria com persistência completa de dados.
 
 ---
 
