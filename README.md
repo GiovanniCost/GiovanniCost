@@ -14,23 +14,22 @@ Sou um Desenvolvedor Full Stack focado em criar aplicações modernas, eficiente
 
 #### Frontend
 <p align="left">
-  <img src="https://jsdelivr.net" width="40" height="40" alt="React" />&nbsp;
-  <img src="https://jsdelivr.net" width="40" height="40" alt="JavaScript" />&nbsp;
-  <img src="https://jsdelivr.net" width="40" height="40" alt="HTML5" />&nbsp;
-  <img src="https://jsdelivr.net" width="40" height="40" alt="CSS3" />
+  <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" width="40" height="40" alt="React" />
+  <img src="https://img.icons8.com/?size=100&id=MjuloYXjXHYT&format=png&color=000000" width="40" height="40" alt="javascript"/>     
+   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="40" height="40" alt="HTML5" />
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="40" height="40" alt="CSS3" />
 </p>
 
 #### Backend & Banco de Dados
 <p align="left">
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Node.js" />&nbsp;
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Express" />&nbsp;
-  <img src="https://jsdelivr.net" width="40" height="40" alt="MongoDB" />
+  <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" width="40" height="40" alt="Node.js" />&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" width="40" height="40" alt="MongoDB" />
 </p>
 
 #### Ferramentas
 <p align="left">
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Git" />&nbsp;
-  <img src="https://jsdelivr.net" width="40" height="40" alt="GitHub" />
+  <img src="https://img.icons8.com/?size=100&id=6Qr2kBSBemvq&format=png&color=000000" width="40" height="40" alt="Git" />
+  <img src="https://img.icons8.com/?size=100&id=lkh3AbJLmFpp&format=png&color=000000" width="40" height="40" alt="GitHub" />
 </p>
 
 
